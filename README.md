@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @megastacks13
-- 👀 I’m interested in python learning and game development
-- 🌱 I’m currently working on "Good Question" 
+- 👀 I’m a junior programmer
 - 📫 Reach me trough discord megastacks13#9840
 
 <!---
