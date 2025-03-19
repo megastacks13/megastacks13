@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TravelTales](https://github.com/megastacks13/TravelTalesWeb/)
 
-- 🌱 I’m currently learning **JavaFX and Deep Learning Algorithms**
+- 🌱 I’m currently learning **Deep Learning Algorithms, Pathfinding and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/megastacks13](https://github.com/megastacks13)
 
