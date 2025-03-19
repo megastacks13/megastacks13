@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megastacks13" alt="megastacks13" /></a> </p>
 
-- 🔭 I’m currently working on [TravelTales](https://github.com/megastacks13/TravelTales/)
+- 🔭 I’m currently working on [TravelTales](https://github.com/megastacks13/TravelTalesWeb/)
 
 - 🌱 I’m currently learning **JavaFX and Deep Learning Algorithms**
 
